@@ -1,0 +1,8 @@
+this template was build only with :
+HTML
+CSS
+bootstrap
+
+
+design link 
+https://xd.adobe.com/view/d5e8789b-dbf8-447d-8f15-828901322ef8-80bb/specs/
